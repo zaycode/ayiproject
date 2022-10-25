@@ -4,7 +4,7 @@
 
 # AyiProject
 
-Project developed using flutter 2.x, bloc State Management with clean architecture TDD adn support multiple language.
+Project developed using flutter 2.x, bloc State Management with clean architecture TDD and support multiple language.
 
 Demo: https://drive.google.com/file/d/1V6FIHQPvmTo79FH-uPzp_0poegUO23ek/preview
 

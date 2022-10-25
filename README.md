@@ -6,8 +6,9 @@
 
 Project developed using flutter 2.x, bloc State Management with clean architecture TDD adn support multiple language.
 Demo: https://drive.google.com/file/d/1V6FIHQPvmTo79FH-uPzp_0poegUO23ek/preview
-<iframe src="https://drive.google.com/file/d/1V6FIHQPvmTo79FH-uPzp_0poegUO23ek/preview" width="640" height="480" allow="autoplay"></iframe>
-
+[![Now in Android: 55]       
+(./screenshoot.png)]
+(https://drive.google.com/file/d/1V6FIHQPvmTo79FH-uPzp_0poegUO23ek/preview"Now in Android: 55")
 # Team Structure
 
 Note: This section must be updated according to latest situation.

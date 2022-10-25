@@ -5,7 +5,7 @@
 # AyiProject
 
 Project developed using flutter 2.x, bloc State Management with clean architecture TDD adn support multiple language.
-[![Alternate Text]({image-url})]({video-url} "Link Title")
+[](screenshoot.png)
 # Team Structure
 
 Note: This section must be updated according to latest situation.
